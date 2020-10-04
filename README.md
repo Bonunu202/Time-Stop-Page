@@ -1,3 +1,6 @@
+
+### [Submit a Support Request](https://forms.gle/V3Bk9xpV49s1VzH36)
+
 #### Extend your time limits!
 It's just a normal platformer game!
 
@@ -15,7 +18,10 @@ Sadly (for you), there is a cool down every time you stop time.
 - 2: Time-Start
 - E: Drop enemy (Level 5), Launch enemies (Level 6)
 - F: Reset enemy to top (Level 5)
+
+
+#### Download:
+
+Itch.io page: https://bonunu202.itch.io/time-stop
  
- Itch.io page: https://bonunu202.itch.io/time-stop
- 
- Download on the Mac App Store: https://apps.apple.com/us/app/id1534447774
+Mac App Store: https://apps.apple.com/us/app/id1534447774
