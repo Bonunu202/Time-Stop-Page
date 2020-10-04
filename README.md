@@ -22,6 +22,6 @@ Sadly (for you), there is a cool down every time you stop time.
 
 #### Download:
 
-[(Mac or Windows) itch.io](https://bonunu202.itch.io/time-stop) 
+(Mac or Windows) [itch.io](https://bonunu202.itch.io/time-stop) 
  
-[(Mac) App Store](https://apps.apple.com/us/app/id1534447774)
+(Mac) [App Store](https://apps.apple.com/us/app/id1534447774)
