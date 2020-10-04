@@ -1,4 +1,3 @@
-# Time Stop
 #### Extend your time limits!
 It's just a normal platformer game!
 
