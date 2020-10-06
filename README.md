@@ -1,5 +1,5 @@
 
-### [Submit a Support Request](https://forms.gle/V3Bk9xpV49s1VzH36)
+### [Submit a Support Request](https://airtable.com/shrWW2R0Y43WhUyjv)
 
 #### Extend your time limits!
 It's just a normal platformer game!
