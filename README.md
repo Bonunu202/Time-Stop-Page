@@ -1,15 +1,12 @@
 
-### [Submit a Support Request](https://airtable.com/shrWW2R0Y43WhUyjv)
+### [Submit a Support Request]
+- email sam_skulsky@icloud.com
 
-**Latest Announcement:** 
-*November 30, 2020*
-Time-Stop Version 1.5.0 is coming out soon!
-
-The holiday season has begun!
-We've made many new changes in version 1.5.0 for iPhone, iPad and Mac:
- • Fixed area where players would be unable to move in the tutorial level
- • Other bug fixes and improvements
- • New App Store screenshots to show our winter theme
+The summer season has begun!
+We've made many new changes in version 1.7.0 for Mac:
+ • Summer is here! We've got a brand new theme to fit the mood.
+ • Fixed a bug where the volume slider would have a too drastic volume change from the start to the end.
+ • Fixed a bug where text would appear behind platforms.
 
 #### Extend your time limits!
 It's just a normal platformer game!
